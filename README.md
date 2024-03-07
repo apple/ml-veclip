@@ -232,7 +232,7 @@ If you find VeCLIP useful, please cite using this BibTeX:
 
 ```bibtex
 @article{lai2023scarcity,
-  title={From scarcity to efficiency: Improving clip training via visual-enriched captions},
+  title={VeCLIP: Improving CLIP Training via Visual-enriched Captions},
   author={Lai, Zhengfeng and Zhang, Haotian and Zhang, Bowen and Wu, Wentao and Bai, Haoping and Timofeev, Aleksei and Du, Xianzhi and Gan, Zhe and Shan, Jiulong and Chuah, Chen-Nee and Yang, Yinfei and others},
   journal={arXiv preprint arXiv:2310.07699},
   year={2023}
