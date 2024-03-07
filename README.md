@@ -228,7 +228,7 @@ We further found our VeCap can also be complementary to other well-established f
 
 ## Citation
 
-If you find veCLIP useful, please cite using this BibTeX:
+If you find VeCLIP useful, please cite using this BibTeX:
 
 ```bibtex
 @article{lai2023scarcity,
