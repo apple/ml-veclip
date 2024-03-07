@@ -2,7 +2,7 @@
 
 * A novel CLIP training scheme that achieves the SoTA performance on zero-shot ImageNet classification and COCO image text retreival using limited visual-enriched captions.* [[Paper](https://arxiv.org/abs/2310.07699)]
 
-Zhengfeng Lai*, Haotian Zhang*, Bowen Zhang, Wentao Wu, Haoping Bai, Aleksei Timofeev, Xianzhi Du, Zhe Gan, Jiulong Shan, Chen-Nee Chuah, Yinfei Yang, Meng Cao [*: equal contribution]
+[Zhengfeng Lai*](https://zjujefflai.github.io/), [Haotian Zhang*](https://haotian-zhang.github.io/) , [Bowen Zhang](https://zbwglory.github.io/), Wentao Wu, Haoping Bai, Aleksei Timofeev, Xianzhi Du, [Zhe Gan](https://zhegan27.github.io/), Jiulong Shan, [Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html), Yinfei Yang, Meng Cao [*: equal contribution]
 
 
 <p align="center">
