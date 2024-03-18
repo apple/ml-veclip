@@ -231,11 +231,13 @@ We further found our VeCap can also be complementary to other well-established f
 If you find VeCLIP useful, please cite using this BibTeX:
 
 ```bibtex
-@article{lai2023scarcity,
-  title={From scarcity to efficiency: Improving clip training via visual-enriched captions},
-  author={Lai, Zhengfeng and Zhang, Haotian and Zhang, Bowen and Wu, Wentao and Bai, Haoping and Timofeev, Aleksei and Du, Xianzhi and Gan, Zhe and Shan, Jiulong and Chuah, Chen-Nee and Yang, Yinfei and others},
-  journal={arXiv preprint arXiv:2310.07699},
-  year={2023}
+@misc{lai2024veclip,
+      title={VeCLIP: Improving CLIP Training via Visual-enriched Captions}, 
+      author={Zhengfeng Lai and Haotian Zhang and Bowen Zhang and Wentao Wu and Haoping Bai and Aleksei Timofeev and Xianzhi Du and Zhe Gan and Jiulong Shan and Chen-Nee Chuah and Yinfei Yang and Meng Cao},
+      year={2024},
+      eprint={2310.07699},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 @article{fang2023data,
   title={Data filtering networks},
