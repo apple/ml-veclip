@@ -40,7 +40,7 @@ See the [example notebook](https://github.com/apple/ml-veclip/blob/main/load_vec
 
 ## Checkpoints
 
-We release the checkpoints for **VeCLIP**, which are trained from scratch on visual-enriched captions VeCap 3M/12M/100M/200M, as reported in the paper. The models are evaluated on COCO/Flickr30k image-text retrieval and ImageNet/ImageNetv2 classification in a zero-shot fashion. Use `wget` or `curl` to download the below checkpoints. 
+We release the checkpoints for **VeCLIP**, which are trained from scratch on visual-enriched captions VeCap 3M/12M/100M/200M/300M, as reported in the paper. The models are evaluated on COCO/Flickr30k image-text retrieval and ImageNet/ImageNetv2 classification in a zero-shot fashion. Use `wget` or `curl` to download the below checkpoints. 
 
 <table>
 <thead>
