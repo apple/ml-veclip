@@ -1,6 +1,6 @@
-# VeCLIP: Improving CLIP Training via Visual-enriched Captions
+# [ECCV-2024] VeCLIP: Improving CLIP Training via Visual-enriched Captions
 
-* A novel CLIP training scheme that achieves the SoTA performance on zero-shot ImageNet classification and COCO image text retreival using limited visual-enriched captions.* [[Paper](https://arxiv.org/abs/2310.07699)]
+* A novel CLIP training scheme that achieves the SoTA performance on zero-shot ImageNet classification and COCO image text retreival using limited visual-enriched captions. * [[Paper](https://arxiv.org/abs/2310.07699)]
 
 [Zhengfeng Lai*](https://zjujefflai.github.io/), [Haotian Zhang*](https://haotian-zhang.github.io/) , [Bowen Zhang](https://zbwglory.github.io/), Wentao Wu, Haoping Bai, Aleksei Timofeev, Xianzhi Du, [Zhe Gan](https://zhegan27.github.io/), Jiulong Shan, [Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html), Yinfei Yang, Meng Cao [*: equal contribution]
 
@@ -11,6 +11,7 @@
 </p>
 
 ## Release
+- [07/01/2024] 🔥 Our paper is accepted by ECCV 2024.
 - [03/06/2024] 🔥 We released the VeCLIP & VeCap-DFN [checkpoints](#checkpoints).
 
 ## Contents
