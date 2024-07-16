@@ -11,6 +11,7 @@
 </p>
 
 ## Release
+- [07/15/2024] 🔥 We released our VeCap captions on [CC3M](https://ucdavis.box.com/s/8rgpxdtca4224urhipdyx4u0v7m6gnf6).
 - [07/01/2024] 🔥 Our paper is accepted by ECCV 2024.
 - [03/06/2024] 🔥 We released the VeCLIP & VeCap-DFN [checkpoints](#checkpoints).
 
