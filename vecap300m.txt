@@ -1,0 +1,10 @@
+https://docs-assets.developer.apple.com/ml-research/datasets/veclip/wit_300m-00-of-10.json
+https://docs-assets.developer.apple.com/ml-research/datasets/veclip/wit_300m-01-of-10.json
+https://docs-assets.developer.apple.com/ml-research/datasets/veclip/wit_300m-02-of-10.json
+https://docs-assets.developer.apple.com/ml-research/datasets/veclip/wit_300m-03-of-10.json
+https://docs-assets.developer.apple.com/ml-research/datasets/veclip/wit_300m-04-of-10.json
+https://docs-assets.developer.apple.com/ml-research/datasets/veclip/wit_300m-05-of-10.json
+https://docs-assets.developer.apple.com/ml-research/datasets/veclip/wit_300m-06-of-10.json
+https://docs-assets.developer.apple.com/ml-research/datasets/veclip/wit_300m-07-of-10.json
+https://docs-assets.developer.apple.com/ml-research/datasets/veclip/wit_300m-08-of-10.json
+https://docs-assets.developer.apple.com/ml-research/datasets/veclip/wit_300m-09-of-10.json
