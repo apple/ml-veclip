@@ -11,6 +11,7 @@
 </p>
 
 ## Release
+- [08/23/2024] 🔥 We release our VeCap-300M [dataset](#vecap-300m-download).
 - [07/01/2024] 🔥 Our paper is accepted by ECCV 2024.
 - [03/06/2024] 🔥 We released the VeCLIP & VeCap-DFN [checkpoints](#checkpoints).
 
@@ -37,6 +38,12 @@ pip install -r requirements.txt
 ## Getting Started
 
 See the [example notebook](https://github.com/apple/ml-veclip/blob/main/load_veclip.ipynb) for details on how to simply load the different checkpoints using HuggingFace transformers.
+
+## VeCap-300M Download 
+We split our 300M data into 10 jsons: for each image, we save the web link and our caption. 
+```Shell
+wget -i vecap300m.txt -b -c
+```
 
 
 ## Checkpoints
