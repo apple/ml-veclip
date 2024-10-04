@@ -11,7 +11,8 @@
 </p>
 
 ## Release
-- [08/23/2024] 🔥 We release our VeCap-300M [dataset](#vecap-300m-download).
+- [10/03/2024] 🔥🔥🔥 We release [VeCap-V2](https://arxiv.org/abs/2410.02740): Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models. 
+- [08/23/2024] 🔥🔥🔥 We release our VeCap-300M [dataset](#vecap-300m-download).
 - [07/01/2024] 🔥 Our paper is accepted by ECCV 2024.
 - [03/06/2024] 🔥 We released the VeCLIP & VeCap-DFN [checkpoints](#checkpoints).
 
@@ -246,6 +247,15 @@ If you find VeCLIP useful, please cite using this BibTeX:
       eprint={2310.07699},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
+}
+@misc{lai2024revisitlargescaleimagecaptiondata,
+      title={Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models}, 
+      author={Zhengfeng Lai and Vasileios Saveris and Chen Chen and Hong-You Chen and Haotian Zhang and Bowen Zhang and Juan Lao Tebar and Wenze Hu and Zhe Gan and Peter Grasch and Meng Cao and Yinfei Yang},
+      year={2024},
+      eprint={2410.02740},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2410.02740}, 
 }
 @article{fang2023data,
   title={Data filtering networks},
